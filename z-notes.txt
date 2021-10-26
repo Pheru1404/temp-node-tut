@@ -1,0 +1,12 @@
+// Globals - can be accessed anywhere in node application
+No window object
+No DOM
+
+__dirname   : path to current directory
+__filename  : filename
+require     : function to use modules
+module      : infor about current module (file). Every file is a module. Encapsulated code.
+            : exports (for export what you want to share)
+process     : info about execution environment (env)
+
+Every file is a module (CommonJS)
